@@ -1,0 +1,298 @@
+.clear {
+    clear: both;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.section {
+
+    width: 1600px;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+.content {
+    width: 1220px;
+    margin: 0 auto;
+
+
+}
+
+.s1 {
+    height: 950px;
+    background-image: url(../img/bg%20banner.png);
+}
+
+.s1 .content {
+    height: 900px;
+    padding-top: 65px;
+}
+
+.headertxt {
+    float: left;
+    color: white;
+    display: inline-block;
+
+
+}
+
+nav {}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    float: right;
+}
+
+li {
+    display: inline-block;
+    color: white;
+    margin-left: 55px;
+}
+
+h1 {
+    margin-top: 330px;
+    font-size: 65px;
+    color: white;
+}
+
+.s1 p {
+    color: white;
+}
+
+.s2 {
+    height: 640px;
+    background-color: #962323;
+    margin-top: -1px;
+}
+
+.s2 .content {
+    height: 550px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+
+.imgdiv {
+    display: inline-block;
+    width: 40%;
+    float: left;
+    background-image: url(../img/replace%20image.png);
+    height: 450px;
+}
+
+.imgtxt {
+    display: inline-block;
+    width: 40%;
+    float: right;
+    height: 450px;
+}
+
+.imgtxt h2 {
+    color: white;
+    font-style: italic;
+    text-decoration: underline;
+    text-underline-position: below;
+    font-size: 36px;
+}
+
+.imgtxt p {
+    color: white;
+    line-height: 30px;
+}
+
+.s3 {
+    height: 483px;
+    background-image: url(../img/bg.png);
+}
+
+.s3 .content {
+    padding-top: 120px;
+    height: 470px;
+}
+
+.s3 h2 {
+    color: white;
+    text-decoration: underline;
+    font-size: 48px;
+    font-style: italic;
+
+}
+
+.s3 p {
+    color: white;
+    line-height: 30px;
+}
+
+.s4 {
+    height: 900px;
+
+}
+
+.s4 .content {
+    height: 700px;
+    margin: 0 auto;
+    padding-top: 120px;
+}
+
+.s4 h2 {
+    text-decoration: underline;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.txtleft {
+    width: 480px;
+    height: 505px;
+    display: inline-block;
+    float: left;
+}
+
+.txtright {
+    width: 480px;
+    height: 505px;
+    display: inline-block;
+    float: right;
+}
+
+.mainmeat {
+    float: left;
+    display: inline-block;
+}
+
+.cost {
+    color: red;
+    display: inline-block;
+    float: right;
+}
+
+.meattxt {
+    display: inherit;
+    text-align: left;
+    
+}
+
+.s6 {
+    height: 322px;
+    background-color: #25262a;
+}
+
+.s6 .content {
+    padding-top: 50px;
+    height: 200px;
+    margin: 0 auto;
+    /*text-align: left;*/
+}
+
+.s6 .firstdiv {
+    width: 270px;
+    height: 180px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    float: left;
+}
+
+.s6 h3 {
+    color: white;
+    float: left;
+}
+
+.pp {
+    float: left;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: -80px;
+    color: white;
+}
+
+.seconddiv {
+    width: 160px;
+    height: 180px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: -150px;
+}
+
+.thirddiv {
+    width: 160px;
+    height: 180px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.fourthdiv {
+    width: 160px;
+    height: 180px;
+    display: inline-block;
+    margin: 0 auto;
+    text-align: left;
+    
+}
+.fifthdiv{
+     width: 160px;
+    height: 180px;
+    display: inline-block;
+    float: right;
+    text-align: left;
+    margin: 0 auto;
+    margin-top: -180px;
+}
+
+
+
+.s7{
+    height: 120px;
+    background-color: #16171b;
+}
+
+.s7 .content{
+    width: 1170px;
+    height: 35px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.s7 .content h3{
+     display: inline-block;
+    float: left;
+    margin-top: -2px;
+    color: #8b8b8d;
+}
+
+.s7 .content a{
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+    color: #8b8b8d;
+}
+
+.s7 .content i{
+    float: right;
+    color: #8b8b8d;
+}
+.icons{
+    text-align: right;
+    float: right;
+    color: #8b8b8d;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+
+li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
